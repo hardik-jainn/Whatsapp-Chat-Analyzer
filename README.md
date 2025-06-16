@@ -24,10 +24,18 @@ A Streamlit web app that analyzes WhatsApp group chat exports to uncover messagi
 3. Get visualized analysis instantly on Streamlit dashboard
 
 ## 📸 Sample Output
-- Word Cloud  
-- Bar chart of most active users  
-- Emoji frequency graph  
-- Activity heatmap  
+- Word Cloud
+![image](https://github.com/user-attachments/assets/7bc085e7-0fe9-41a3-9944-609d8b0132a5)
+
+- Bar chart of most active users
+![image](https://github.com/user-attachments/assets/f5523202-5d99-4f61-85cf-9f3153355d66)
+
+- Emoji frequency chart
+![image](https://github.com/user-attachments/assets/e85972d0-6832-410a-afc1-849b564711ec)
+
+- Activity heatmap
+![image](https://github.com/user-attachments/assets/6345227d-f1be-4215-be41-1fc528fda07f)
+
 
 ## ✅ Outcome
 This project demonstrates the use of Python and Streamlit to transform raw unstructured text data into meaningful visual insights — a useful skill for real-time EDA, user segmentation, and NLP prototyping.
