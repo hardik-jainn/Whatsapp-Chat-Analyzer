@@ -24,16 +24,16 @@ A Streamlit web app that analyzes WhatsApp group chat exports to uncover messagi
 3. Get visualized analysis instantly on Streamlit dashboard
 
 ## 📸 Sample Output
-- Word Cloud
+**Word Cloud**
 ![image](https://github.com/user-attachments/assets/7bc085e7-0fe9-41a3-9944-609d8b0132a5)
 
-- Bar chart of most active users
+**Bar chart of most active users**
 ![image](https://github.com/user-attachments/assets/f5523202-5d99-4f61-85cf-9f3153355d66)
 
-- Emoji frequency chart
+**Emoji frequency chart**
 ![image](https://github.com/user-attachments/assets/e85972d0-6832-410a-afc1-849b564711ec)
 
-- Activity heatmap
+**Activity heatmap**
 ![image](https://github.com/user-attachments/assets/6345227d-f1be-4215-be41-1fc528fda07f)
 
 
